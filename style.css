@@ -60,3 +60,14 @@ h1{
     ul{
       padding-left: 24px;
     }
+
+    footer{
+      color: black;
+      text-align: center;
+      padding-bottom: 48px;
+    }
+
+    Footer img{
+    vertical-align: middle;
+    color: black;
+    }
